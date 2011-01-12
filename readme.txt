@@ -6,7 +6,7 @@ Author URI: http://Net-Freak.dk
 Tags: Livecounter, stats, Statistics
 Requires at least: 2.0.2
 Tested up to: 3.0.4
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Here is a short description of the plugin.
 
