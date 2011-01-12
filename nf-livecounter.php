@@ -4,7 +4,7 @@ Plugin Name: NF Livecounter Widget
 Plugin URI: http://wordpress.org/extend/plugins/nf-livecounter/
 Description: En livecounter widget til din Wordpress blog.
 Author: Peter Piilgaard
-Version: 1.0.1
+Version: 1.0.2
 Author URI: http://net-freak.dk/
 */
 
@@ -146,7 +146,7 @@ $options = array(
     </ol>
    
     <input type="hidden" id="nflc-Submit" name="nflc-Submit" value="1" />
-    <?php if ( current_user_can('manage_options') ) { echo '<a href="admin.php?page=NF-Shortcodes">Options</a>'; }; ?>
+    <?php if ( current_user_can('manage_options') ) { echo '<a href="admin.php?page=NF-Livecounter">Options</a>'; }; ?>
   </p>
 
 <?php

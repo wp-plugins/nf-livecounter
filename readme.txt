@@ -6,7 +6,7 @@ Author URI: http://Net-Freak.dk
 Tags: Livecounter, stats, Statistics
 Requires at least: 2.0.2
 Tested up to: 3.0.4
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 Here is a short description of the plugin.
 
@@ -30,6 +30,11 @@ Tjek om du har husket at skrive dit rigtige livecounter ID ind i din widget.
 
 
 == Changelog ==
+= 1.0.2 =
+* Bugfixes.
+
+= 1.0.1 =
+* NF-Livecounter tilføjet til Wordpress.org Pluginarkiv.
 
 = 1.0 =
 * NF-Livecounter Pluging released.
