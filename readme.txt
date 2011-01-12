@@ -27,8 +27,8 @@ Tjek om du har husket at skrive dit rigtige livecounter ID ind i din widget.
 
 == Screenshots ==
 
-1. Widget itself
-2. Widget admin
+1. screenshot-1.png
+2. screenshot-2.png
 
 == Changelog ==
 = 1.0.2 =
