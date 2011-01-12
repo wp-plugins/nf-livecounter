@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: NF Livecounter Widget
-Plugin URI: http://net-freak.dk/
+Plugin URI: http://wordpress.org/extend/plugins/nf-livecounter/
 Description: En livecounter widget til din Wordpress blog.
 Author: Peter Piilgaard
-Version: 1.0 BETA
+Version: 1.0.1
 Author URI: http://net-freak.dk/
 */
 
