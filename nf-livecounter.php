@@ -4,7 +4,7 @@ Plugin Name: NF Livecounter Widget
 Plugin URI: http://wordpress.org/extend/plugins/nf-livecounter/
 Description: En livecounter widget til din Wordpress blog.
 Author: Peter Piilgaard
-Version: 1.0.2
+Version: 1.0.3
 Author URI: http://net-freak.dk/
 */
 

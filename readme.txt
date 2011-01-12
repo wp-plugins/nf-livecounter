@@ -6,7 +6,7 @@ Author URI: http://Net-Freak.dk
 Tags: Livecounter, stats, Statistics
 Requires at least: 2.0.2
 Tested up to: 3.0.4
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 
 Here is a short description of the plugin.
 
@@ -27,7 +27,8 @@ Tjek om du har husket at skrive dit rigtige livecounter ID ind i din widget.
 
 == Screenshots ==
 
-
+1. Widget itself
+2. Widget admin
 
 == Changelog ==
 = 1.0.2 =
