@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: Net-Freak
 Donate link: http://net-freak.dk/
-Plugin URI: http://net-freak.dk/nf-livecounter-stats-wordpress-pluginwidget/
+Plugin URI: http://wordpress.org/extend/plugins/nf-livecounter/
 Author URI: http://Net-Freak.dk
 Tags: Livecounter, stats, Statistics
 Requires at least: 2.0.2
