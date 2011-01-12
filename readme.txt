@@ -12,7 +12,7 @@ Here is a short description of the plugin.
 
 == Description ==
 
-Et lille plugin der er i stand til at vise dine Livecounter stats på din hjemmeside via widgets. 
+Et lille plugin der er i stand til at vise dine Livecounter stats p&aring; din hjemmeside via widgets. 
 
 == Installation ==
 
@@ -20,7 +20,7 @@ Installer pluginnet og aktiver din widget.
 
 == Frequently Asked Questions ==
 
-= Min widget viser ikke stats, hvad gør jeg? =
+= Min widget viser ikke stats, hvad g&oslash;r jeg? =
 
 Tjek om du har husket at skrive dit rigtige livecounter ID ind i din widget.
 
@@ -40,6 +40,6 @@ Tjek om du har husket at skrive dit rigtige livecounter ID ind i din widget.
 
 == A brief Markdown Example ==
 
-Et lille plugin der er i stand til at vise dine Livecounter stats på din hjemmeside via widgets.
+Et lille plugin der er i stand til at vise dine Livecounter stats p&aring; din hjemmeside via widgets.
 
 [feedly mini] 
